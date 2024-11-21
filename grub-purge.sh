@@ -1,0 +1,1 @@
+sudo dpkg --force-all --purge grub-common grub-pc grub-efi grub-efi-amd64 grub-efi-amd64-signed  grub-efi-amd64-bin grub-efi-amd64-unsigned grub-pc-bin grub2-common penguins-eggs grub-imageboot os-prober calamares
